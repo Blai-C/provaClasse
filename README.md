@@ -1,2 +1,0 @@
-# provaClasse
-Testing testing
